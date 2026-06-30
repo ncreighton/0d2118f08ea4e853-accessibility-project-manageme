@@ -1,2 +1,25 @@
-# 0d2118f08ea4e853-accessibility-project-manageme
-accessibility professionals waste hours on starting from a blank document every single time. This fixes that.  Fully editable: every field, color, and section customizable. Professional formatting tested across different screen sizes and printers.  ## What's Included  - Accessibility Project Management And Team Collaboration — fully configured and
+# Accessibility Project Management and Team Collaboration Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu28r8v53o8aNO7jCcZD1z)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu28r8v53o8aNO7jCcZD1z)
+
